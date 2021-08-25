@@ -10,7 +10,6 @@
 
 - Depth Knob
 - Speed Knob
-- Duty Knob
 - Volume Knob
 - Shape Selector
 - Tap Tempo

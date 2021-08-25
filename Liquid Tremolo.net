@@ -1,0 +1,36 @@
+* D:\Github\Liquid Tremolo\Liquid Tremolo.asc
+V1 N002 0 SINE(0 100m 1k) AC 1
+C1 N003 N002 47n
+R1 +Vb N003 470k
+V2 +9V 0 9
+R2 +9V +Vb 10k
+R3 +Vb 0 10k
+Q1 +9V N003 N012 0 2N2222
+R4 N012 0 10k
+C2 N001 N012 470n
+XU1 N001 N008 +9V 0 N004 AD712
+R5 N004 N008 10k
+R6 N014 N008 10k
+C3 N014 0 1µ
+R7 N005 N006 {(1-POT)*10k}
+C4 N005 N004 470n
+R8 N006 0 {POT*10k}
+R9 +Vb N001 470k
+C5 N007 N006 470n
+R10 +Vb N007 470k
+XU2 N007 N011 +9V 0 N009 AD712
+R11 N009 N011 10k
+R12 N015 N011 10k
+C6 N015 0 1µ
+R13 N010 N013 5k
+R14 N013 0 5k
+C7 N010 N009 470n
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\Konstruktor\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.ac dec 1000 1 100k
+* Digital Potentiometer
+.step param POT 1% 99% 50%
+.lib ADI1.lib
+.backanno
+.end
