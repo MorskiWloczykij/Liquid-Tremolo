@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Liquid Tremolo.PcbDoc   31.08.2021  11:51:26
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Liquid Tremolo-RoundHoles.TXT
+ASCII SlotHoles File : Liquid Tremolo-SlotHoles.TXT
+ASCII RectHoles File : Liquid Tremolo-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             60        PTH        395.92mm (15.59inch)
+T2      0.5mm (20mil)                                             Slot              12        PTH        242.39mm (9.54inch)
+T3      0.8mm (31mil)                                             Slot              3         PTH        35.03mm (1.38inch)
+T4      0.85mm (33mil)                                            Round             16        PTH        93.20mm (3.67inch)
+T5      1mm (39mil)                                               Round             12        PTH        84.00mm (3.31inch)
+T6      1.8mm (71mil)                                             Rectangle         8         PTH        200.82mm (7.91inch)
+T7      2.3mm (91mil)                                             Round             9         PTH        38.80mm (1.53inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              120
+
+Total Processing Time (hh:mm:ss) : 00:00:00

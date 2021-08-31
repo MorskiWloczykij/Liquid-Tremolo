@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations
+D:\Github\Liquid Tremolo\Project Outputs for Liquid Tremolo\Pick Place\Pick Place for Liquid Tremolo.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       31.08.21
+Time:       11:57
+Revision:   de003fe07aa128aedcbe6bb5ec072ef568ec22a5
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R20","0?","TopLayer","RESISTOR_0603","21.9500","-35.8000","90","75V -55?~+155? ±1% Thick Film Resistors 100mW 0? 0603 Chip Resistor - Surface Mount ROHS"
+"J2","PJ-609K","BottomLayer","HOOYA_PJ-609K","15.4000","-8.0000","180","6.35mm Plug-in headphone holder Horizontal 6 Female - Audio & Video Connectors ROHS"
+"J1","PJ-609K","BottomLayer","HOOYA_PJ-609K","-15.4000","-8.0000","0","6.35mm Plug-in headphone holder Horizontal 6 Female - Audio & Video Connectors ROHS"
+"S1","3PDT","TopLayer","3PDT","-12.0000","-30.0000","90","Top Actuated 50mA @ 12VDC Round Button SPST 6*6mm Tactile Switches ROHS"
+"R13","1k","TopLayer","RESISTOR_0603","-2.0000","10.0000","0","±1% ±100ppm/? 1k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"D2","Red 3mm","TopLayer","LED_3MM_BLUE","0.0000","4.1500","90","Red 620nm~630nm 1.8V~2.6V Through Hole Light Emitting Diodes (LED) ROHS"
+"X1","S7D32.768KB20F30T","TopLayer","S7D32.768KB20F30T","19.5500","-8.0000","90","3.3V 32.768KHz ±20ppm SMD7050-4P Oscillators ROHS"
+"U4","SC1117-3.3V","TopLayer","SC1117-3.3V","0.3000","28.8500","180","12V 1.5V @ 700mA Fixed 3.3V SOT-223 Linear Voltage Regulators (LDO) ROHS"
+"U3","STM32G030F6P6TR","TopLayer","STM32G030F6P6TR","9.7500","-8.0000","180","TSSOP-20 ST Microelectronics ROHS"
+"U2","JRC4558D","BottomLayer","JRC4558","0.0000","25.0000","180","SOP-8 Operational Amplifier ROHS"
+"U1","MCP41010T-I/SN","TopLayer","MCP41010","0.0000","-13.0000","180","SOIC-8 Digital Potentiometers ROHS"
+"T2","2SC1815","TopLayer","2SC1815","5.8250","13.7500","90","50V 0.2W 0.15A NPN SOT-23(SOT-23-3) Bipolar Transistors - BJT ROHS"
+"T1","2SC1815","TopLayer","2SC1815","7.2000","-38.7500","270","50V 0.2W 0.15A NPN SOT-23(SOT-23-3) Bipolar Transistors - BJT ROHS"
+"S2","K2-1102SP-C4SC-04","TopLayer","K2-1102SP-C4SC-04","-8.1500","-44.0000","0","Top Actuated 50mA @ 12VDC Round Button SPST 6*6mm Tactile Switches ROHS"
+"RT4","10k","BottomLayer","RK09D1130C2P","15.0000","32.0000","180","±20% 10k? Plugin Variable Resistors/Potentiometers ROHS"
+"RT3","10k","BottomLayer","RK09D1130C2P","-15.0000","15.0000","180","±20% 10k? Plugin Variable Resistors/Potentiometers ROHS"
+"RT2","10k","BottomLayer","RK09D1130C2P","-15.0000","32.0000","180","±20% 10k? Plugin Variable Resistors/Potentiometers ROHS"
+"RT1","10k","BottomLayer","RK09D1130C2P","15.0000","15.0000","180","±20% 10k? Plugin Variable Resistors/Potentiometers ROHS"
+"R19","10k","TopLayer","RESISTOR_0603","-0.8500","-42.5000","270","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R18","10k","TopLayer","RESISTOR_0603","-23.0000","9.7404","90","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R17","10k","TopLayer","RESISTOR_0603","-23.0000","12.4500","90","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R16","10k","TopLayer","RESISTOR_0603","12.7750","-25.0250","0","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R15","10k","TopLayer","RESISTOR_0603","20.9000","-13.1000","0","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R14","1k","TopLayer","RESISTOR_0603","6.8250","10.6250","90","±1% ±100ppm/? 1k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R12","100?","TopLayer","RESISTOR_0603","2.0000","10.0000","180","±1% ±200ppm/? 100? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R11","10k","TopLayer","RESISTOR_0603","10.3250","-39.7500","180","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R10","1k","TopLayer","RESISTOR_0603","2.9500","-48.8750","180","±1% ±100ppm/? 1k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R9","470k","TopLayer","RESISTOR_0603","2.9500","-37.8250","180","±1% 470k? ±100ppm/? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R8","10k","BottomLayer","RESISTOR_0603","6.5000","25.6500","180","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R7","10k","BottomLayer","RESISTOR_0603","4.4000","26.2250","270","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R6","10k","BottomLayer","RESISTOR_0603","-5.9000","24.8000","270","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R5","1M","TopLayer","RESISTOR_0603","9.8000","-18.2500","180","1M? ±1% 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R4","1M","TopLayer","RESISTOR_0603","-9.8500","-1.8750","0","1M? ±1% 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R3","10k","BottomLayer","RESISTOR_0603","-4.4000","24.8000","270","±1% ±100ppm/? 10k? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R2","470k","BottomLayer","RESISTOR_0603","5.0000","24.1500","0","±1% 470k? ±100ppm/? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"R1","470k","BottomLayer","RESISTOR_0603","-4.4000","22.1000","270","±1% 470k? ±100ppm/? 0.1W 0603 Chip Resistor - Surface Mount ROHS"
+"J7","DC-005 2.0","BottomLayer","DC-005_2.0","2.4000","40.3000","270","Through Hole AC/DC Power Plugs & Receptacles ROHS"
+"J6","W-2510R04P-0000","TopLayer","W-2510R04P-0000","4.1600","-26.2250","180","4 Header MX2.54 0.100"(2.54mm) Male Pin Through Hole,P=2.54mm Wire To Board / Wire To Wire Connector ROHS"
+"J5","HX25411-2A","TopLayer","HX25411-2A","17.0000","-25.0000","0","LCSC Part # C181912
+Package P=2.54mm
+Manufacturer HX(Zhejiang Yueqing Hongxing Elec)"
+"J4","HX25411-3A","TopLayer","HX25411-3A","14.4900","-44.3000","0","3 Header CH 0.100"(2.54mm) Male Pin Through Hole Wire To Board / Wire To Wire Connector ROHS"
+"J3","HX25411-3A","TopLayer","HX25411-3A","6.2250","-44.3000","180","3 Header CH 0.100"(2.54mm) Male Pin Through Hole Wire To Board / Wire To Wire Connector ROHS"
+"D3","SS24A","TopLayer","SS24A","0.0000","34.5000","180","40V 2A 500mV @ 2A SMA(DO-214AC) Schottky Barrier Diodes (SBD) ROHS"
+"D1","Blue 3mm","TopLayer","LED_3MM_BLUE","0.0000","15.0000","270","Blue 460nm~470nm 2.7V~3.6V Through Hole Light Emitting Diodes (LED) ROHS"
+"C15","470n 16V","TopLayer","CAPACITOR_0603","-2.3500","-42.5000","90","X7R ±10% 470nF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C14","22µ 10V","TopLayer","CAPACITOR_0603","4.5500","31.2000","270","X5R ±20% 10V 22uF 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C13","22µ 10V","TopLayer","CAPACITOR_0603","-5.4750","31.6000","90","X5R ±20% 10V 22uF 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C12","22µ 10V","TopLayer","CAPACITOR_0603","-3.9750","31.6000","90","X5R ±20% 10V 22uF 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C11","22µ 10V","BottomLayer","CAPACITOR_0603","-5.0000","26.9000","0","X5R ±20% 10V 22uF 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C10","1µ 16V","TopLayer","CAPACITOR_0603","10.1750","-3.4000","0","X7R ±10% 1uF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C9","470n 16V","TopLayer","CAPACITOR_0603","10.1750","-1.9000","0","X7R ±10% 470nF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C8","1µ 16V","BottomLayer","CAPACITOR_0603","7.1000","23.5500","90","X7R ±10% 1uF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C7","47n 16V","TopLayer","CAPACITOR_0603","2.9750","-39.8000","0","X7R ±10% 47nF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C6","1µ 16V","BottomLayer","CAPACITOR_0603","-7.4000","26.3000","270","X7R ±10% 1uF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C5","470n 16V","TopLayer","CAPACITOR_0603","-4.4000","-11.6500","90","X7R ±10% 470nF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C4","470n 16V","BottomLayer","CAPACITOR_0603","6.5000","27.1500","0","X7R ±10% 470nF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C3","470n 16V","BottomLayer","CAPACITOR_0603","14.4750","-39.2000","90","X7R ±10% 470nF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C2","470n 16V","TopLayer","CAPACITOR_0603","17.4750","7.0750","90","X7R ±10% 470nF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C1","1µ 16V","TopLayer","CAPACITOR_0603","-2.0000","-16.4500","0","X7R ±10% 1uF 16V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"

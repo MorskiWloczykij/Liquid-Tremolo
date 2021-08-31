@@ -108,6 +108,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVIMBROQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Liquid Tremolo\Design Rule Check - Liquid Tremolo.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
